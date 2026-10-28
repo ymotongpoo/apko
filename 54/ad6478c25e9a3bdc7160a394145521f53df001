@@ -1,0 +1,27 @@
+go.mod
+  s_33f639c294a204::t_68be7e416d7b42 31-33,35,43-44,132,141
+go.sum
+  s_33f639c294a204::t_09e06fb8195b6c 265-270,275-278,367-368
+internal/tracing/tracing.go
+  s_33f639c294a204::t_166b929ff2dac8 1-91
+internal/tracing/tracing_test.go
+  s_33f639c294a204::t_5c0f67c3c35f4e 1-265
+main.go
+  s_33f639c294a204::t_99edc335530a72 24,40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "54ad6478c25e9a3bdc7160a394145521f53df001",
+  "prompts": {},
+  "sessions": {
+    "s_33f639c294a204": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17d3f-f701-7f31-b677-1c5180afbfa4",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Yoshi Yamaguchi <ymotongpoo@gmail.com>"
+    }
+  }
+}
