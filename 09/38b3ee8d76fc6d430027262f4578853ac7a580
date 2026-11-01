@@ -1,0 +1,84 @@
+pkg/apk/apk/implementation.go
+  s_33f639c294a204::t_bf57e7951e37dc 41
+pkg/tarfs/fs_test.go
+  s_33f639c294a204::t_bf57e7951e37dc 21,23,25,28,183-443
+pkg/apk/fs/sub.go
+  s_33f639c294a204::t_bf57e7951e37dc 5,81-87
+  s_33f639c294a204::t_c0ed1a3cbac178 88
+pkg/apk/apk/package_getter.go
+  s_33f639c294a204::t_bf57e7951e37dc 218-224,282-288,291,296,300,306,311,315,401-405,407-409,411,413,417,423-426
+README.md
+  s_33f639c294a204::t_bf57e7951e37dc 167
+.github/workflows/codeql.yaml
+  s_33f639c294a204::t_bf57e7951e37dc 53
+pkg/apk/auth/auth_test.go
+  s_33f639c294a204::t_bf57e7951e37dc 73-148
+pkg/apk/fs/rwosfs.go
+  s_33f639c294a204::t_bf57e7951e37dc 645-657
+pkg/apk/expandapk/expandapk_test.go
+  s_33f639c294a204::t_bf57e7951e37dc 25,555-746
+pkg/build/layers_test.go
+  s_33f639c294a204::t_bf57e7951e37dc 31-32,213,454-537
+  s_33f639c294a204::t_f81e0a655e8775 538
+pkg/apk/expandapk/options.go
+  s_33f639c294a204::t_bf57e7951e37dc 34-39,61-71
+  s_33f639c294a204::t_94654a44c47121 72-75
+pkg/apk/apk/implementation_test.go
+  s_33f639c294a204::t_bf57e7951e37dc 36
+pkg/apk/fs/lchown_test.go
+  s_33f639c294a204::t_bf57e7951e37dc 1-111
+pkg/build/paths.go
+  s_33f639c294a204::t_bf57e7951e37dc 47-59,61,65-70,78-119,144-145,148
+pkg/apk/auth/auth.go
+  s_33f639c294a204::t_bf57e7951e37dc 72-73
+pkg/apk/apk/package_getter_offline_test.go
+  s_33f639c294a204::t_bf57e7951e37dc 1-174
+pkg/apk/apk/package_getter_test.go
+  s_33f639c294a204::t_bf57e7951e37dc 113-118,121-122,431-434,456-460,463-466,484-488,528-530,557,620,625-626,698,777,812,823,889,1116-1117,1121,1199-1262
+  s_33f639c294a204::t_03bf1ca930e89d 1263
+pkg/apk/fs/fs.go
+  s_33f639c294a204::t_bf57e7951e37dc 98-105
+pkg/build/build_implementation.go
+  s_33f639c294a204::t_bf57e7951e37dc 24,95,128-188,191,196-197,217-219,221,244,249,252-253,259,263,265
+docs/apko_file.md
+  s_33f639c294a204::t_bf57e7951e37dc 233-236
+pkg/apk/fs/memfs.go
+  s_33f639c294a204::t_bf57e7951e37dc 385-416
+pkg/apk/apk/package_getter_cache_cleanup_test.go
+  s_33f639c294a204::t_bf57e7951e37dc 19-22,53-55,64
+.go-version
+  s_33f639c294a204::t_bf57e7951e37dc 1
+go.mod
+  s_33f639c294a204::t_bf57e7951e37dc 6,9,12,84,104,121
+pkg/apk/expandapk/expandapk.go
+  s_33f639c294a204::t_bf57e7951e37dc 79-83,166-167,175-180,532-536,539-551,560-566,644-659,665,670-671
+pkg/tarfs/fs.go
+  s_33f639c294a204::t_bf57e7951e37dc 36,59-61,163-167,418,436,440-443,659-690,1018-1019,1041,1077-1108
+  s_33f639c294a204::t_e936e0cde86abb 1109
+pkg/apk/apk/contents.go
+  s_33f639c294a204::t_bf57e7951e37dc 28-39
+pkg/build/layers.go
+  s_33f639c294a204::t_bf57e7951e37dc 38-53,57,61,67,86,92,104,317-320,325-330,332-340,342,345-348,351-387,397,416,424,426,432,456-457,462-463,466,468,470,473-474,481,488-489,494-495,497-502,504-506,508-511,513,515-523,525-527,529-531,533-536,565
+.github/workflows/release.yaml
+  s_33f639c294a204::t_bf57e7951e37dc 21,66-67,70,110
+pkg/build/paths_symlink_test.go
+  s_33f639c294a204::t_bf57e7951e37dc 1-382
+go.sum
+  s_33f639c294a204::t_a7dbb5150d03b2 3-4,81-82,99-100
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0938b3ee8d76fc6d430027262f4578853ac7a580",
+  "prompts": {},
+  "sessions": {
+    "s_33f639c294a204": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17d3f-f701-7f31-b677-1c5180afbfa4",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Yoshi Yamaguchi <ymotongpoo@gmail.com>"
+    }
+  }
+}
