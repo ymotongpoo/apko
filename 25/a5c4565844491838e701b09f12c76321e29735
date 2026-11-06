@@ -1,0 +1,25 @@
+internal/tracing/tracing.go
+  s_33f639c294a204::t_de3ce5f788d171 84,86-87,89
+main.go
+  s_33f639c294a204::t_de3ce5f788d171 40-45
+go.mod
+  s_33f639c294a204::t_94b1e9c44854d4 132,141-142
+internal/tracing/tracing_test.go
+  s_33f639c294a204::t_f7423aed1bcfd7 25,29-31,44-65,76,83-84,91,99-105,110-113,115-127,129-166,168-169
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "25a5c4565844491838e701b09f12c76321e29735",
+  "prompts": {},
+  "sessions": {
+    "s_33f639c294a204": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17d3f-f701-7f31-b677-1c5180afbfa4",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Yoshi Yamaguchi <ymotongpoo@gmail.com>"
+    }
+  }
+}
